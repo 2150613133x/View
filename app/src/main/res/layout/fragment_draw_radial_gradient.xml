@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.myview.henview.paint.DrawRadialGradientView
+        android:id="@+id/radialGradientView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
+    <Button
+        android:id="@+id/showRadialClampBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clamp"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/showRadialRepeatBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Repeat"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/showRadialMirrorBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mirror"
+        android:textAllCaps="false" />
+
+</LinearLayout>

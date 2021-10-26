@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/drawable/gradient_shape.xml" value="0.425" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.425" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/drawable/loading_ball_blue.xml" value="0.425" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/drawable/loading_ball_red.xml" value="0.425" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/drawable/loading_ball_yellow.xml" value="0.425" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_anim.xml" value="0.4088541666666667" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_canvas.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_canvas_view.xml" value="0.3523550724637681" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_drawing_basis.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_hen_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_main.xml" value="0.39427083333333335" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_paint.xml" value="0.26077097505668934" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_path.xml" value="0.4088541666666667" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_property_anim.xml" value="0.31927083333333334" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_bound.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_font_spacing.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_local.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_matrix.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_path.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_size.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_set_text_type.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_shadow.xml" value="0.40520833333333334" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_text.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_text_static_layout.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_value_anim.xml" value="0.4088541666666667" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/activity_view_anim.xml" value="0.4088541666666667" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_canvas_clip.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_canvas_matrix_trans.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_canvas_normal_trans.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_arc.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_bitmap_shader_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_circle.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_color.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_color_filter_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_compose_shader_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_histogram.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_line.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_linear_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_mask_filter_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_oval.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_path.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_point.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_radial_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_rect.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_ring.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_sector.xml" value="0.25089605734767023" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_shadow_layer_gradient.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_draw_sweep_gradient.xml" value="0.13333333333333333" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/fragment_square_image.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/hen_activity_layout.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/layout/hen_activity_paint.xml" value="0.25885416666666666" />
+        <entry key="..\:/Work/VoyahSetting/CXView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.425" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

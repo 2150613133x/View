@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myview.cxview">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon_view"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CXView">
+        <activity
+            android:name="com.myview.henview.HenMainActivity"
+            android:exported="true"
+            android:hardwareAccelerated="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.myview.cxview.ViewAnimActivity" />
+        <activity android:name="com.myview.cxview.PropertyAnimActivity" />
+        <activity android:name="com.myview.cxview.PaintActivity" />
+        <activity android:name="com.myview.cxview.PathActivity" />
+        <activity android:name="com.myview.cxview.ShadowActivity" />
+        <activity android:name="com.myview.cxview.CanvasActivity" />
+        <activity android:name="com.myview.henview.paint.PaintActivity" />
+        <activity android:name="com.myview.henview.basis.ADrawingBasisActivity" />
+        <activity android:name="com.myview.henview.text.TextActivity" />
+        <activity android:name="com.myview.henview.canvas.CanvasActivity" />
+        <activity android:name="com.myview.henview.layout.LayoutActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewAnimActivity">
+
+    <Button
+        android:id="@+id/startScaleAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Scale Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/startAlphaAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Alpha Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startScaleAnim" />
+
+    <Button
+        android:id="@+id/startRotateAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Rotate Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startAlphaAnim" />
+
+    <Button
+        android:id="@+id/startTranslateAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Translate Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startRotateAnim" />
+
+    <Button
+        android:id="@+id/startSetAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Set Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startTranslateAnim" />
+
+    <Button
+        android:id="@+id/startCodeSetAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start Code Set Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startTranslateAnim" />
+
+    <Button
+        android:id="@+id/relateAnim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start relate Anim"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startTranslateAnim" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:duration="700"
+    android:fillBefore="true"
+    android:fromXScale="0.0"
+    android:fromYScale="0.0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:repeatCount="3"
+    android:repeatMode="reverse"
+    android:toXScale="2"
+    android:toYScale="2">
+
+    <!--pivotX、pivotY 用于指定动画的起始点与坐标原点的相对位置-->
+</scale>
